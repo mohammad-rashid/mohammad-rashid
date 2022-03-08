@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mohammad-rashid
-- 👀 I’m interested in game designing.
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on any designing project.
+- 👀 I’m interested in Software Enineering
+- 🌱 I’m currently working @ Promact
 - 📫 You can reach me @ mohdr138@gmail.com
 
 <!---
